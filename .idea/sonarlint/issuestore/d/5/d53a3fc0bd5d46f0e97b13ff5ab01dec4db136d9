@@ -1,0 +1,9 @@
+
+y
+java:S1450"WRemove the "password" field and declare it as a local variable in the relevant methods.(ß¤ÙÅùÿÿÿÿ8Êü½¶1
+J
+java:S1185"(Remove this method to simply inherit it.(×‚«‹úÿÿÿÿ8ü³¶1
+\
+java:S1161":Add the "@Override" annotation above this method signature(×‚«‹úÿÿÿÿ8ü³¶1
+N
+java:S1068",Remove this unused "password" private field.(ß¤ÙÅùÿÿÿÿ8Íü½¶1
